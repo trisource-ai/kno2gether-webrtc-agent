@@ -1,0 +1,103 @@
+# Enhanced Test Questions for Knolabs Dental Agency
+
+### Treatment Journey Questions
+1. Initial: "I'm interested in getting dental implants. What's the process like?"
+   Follow-up: "How long does the whole treatment take?"
+   Follow-up: "What's the recovery process like?"
+
+2. Initial: "Can you tell me about your different teeth whitening options?"
+   Follow-up: "What's the difference between in-office and take-home treatments?"
+   Follow-up: "What foods should I avoid after whitening?"
+
+3. Initial: "I need a crown. What are my options?"
+   Follow-up: "What's the difference between porcelain and zirconia crowns?"
+   Follow-up: "How do I care for my temporary crown?"
+
+### Post-Procedure Care Conversations
+1. Initial: "What should I do after my root canal treatment?"
+   Follow-up: "Is it normal to feel sensitivity?"
+   Follow-up: "When can I eat normally?"
+
+2. Initial: "I just had a deep cleaning, what should I expect?"
+   Follow-up: "How long will my gums be sensitive?"
+   Follow-up: "When should I schedule my next cleaning?"
+
+
+### Pricing and Insurance
+1. "How much does a porcelain crown cost?"
+2. "What is the cost of Invisalign Full treatment?"
+3. "Do you offer 0% finance options?"
+4. "What's included in your emergency consultation fee?"
+
+### Procedure Details
+1. "How long does a root canal treatment take?"
+2. "What types of dental implants do you offer?"
+3. "Do you provide same-day CEREC crowns?"
+4. "What's included in your routine check-up?"
+
+### Practice Information
+1. "What's your emergency contact number?"
+2. "Who is your Data Protection Officer?"
+3. "How long do you keep dental records?"
+4. "What advanced technologies do you use?"
+
+
+### Comprehensive Treatment Information
+1. "I need information about the complete dental implant process, including costs, timeframes, and aftercare at your practice."
+
+2. "Can you explain all the orthodontic options available at your clinic, including Invisalign and clear braces, with their comparative costs and treatment times?"
+
+3. "What are all the steps involved in getting veneers at your practice, from consultation to final fitting, including costs and care instructions?"
+
+### Policy and Rights Questions
+1. "What are my rights regarding my dental records and personal information under your practice's privacy policy, including access and retention periods?"
+
+2. "Can you explain your complete payment and financing options, including NHS treatments, private fees, and available payment plans?"
+
+3. "What's your full policy on emergency dental care, including out-of-hours services and costs?"
+
+## Emergency Scenario Questions
+
+### Immediate Care
+1. "My temporary crown fell off during the weekend, what should I do?"
+2. "I'm experiencing severe swelling after my extraction, is this normal?"
+3. "I have persistent bleeding after my deep cleaning, what steps should I take?"
+
+### Post-Procedure Complications
+1. "The sensitivity hasn't decreased after my filling, what should I do?"
+2. "I'm experiencing pain three days after my root canal, is this normal?"
+3. "My gums are bleeding more than usual after my deep cleaning, should I be concerned?"
+
+## Special Care Instructions
+
+### Procedure-Specific Care
+1. "What's the complete care routine after getting a CEREC same-day crown?"
+2. "How should I maintain my new veneers for maximum longevity?"
+3. "What's the detailed aftercare process following a bone grafting procedure?"
+
+### Long-term Maintenance
+1. "What's the recommended maintenance schedule for dental implants?"
+2. "How often should I schedule hygiene visits after periodontal treatment?"
+3. "What's the long-term care plan for Invisalign after completing treatment?"
+
+## Regulatory and Compliance Questions
+1. "What professional bodies is Knolabs Dental Agency registered with?"
+2. "How do you ensure GDPR compliance with patient records?"
+3. "What's your complaint handling process?"
+
+These questions are now specifically aligned with our detailed documentation and cover:
+1. The extensive procedure details and costs
+2. Specific post-procedure care instructions
+3. Detailed privacy and data protection policies
+4. Practice-specific information and services
+5. Emergency protocols and contacts
+
+Each question type is designed to test different aspects of the RAG implementations:
+- Chat Engine: Tests contextual understanding and follow-up capability
+- Query Engine: Tests precise information retrieval
+- Retrieval Engine: Tests comprehensive information synthesis
+
+Would you like me to:
+1. Add more specific questions for certain procedures?
+2. Create example responses for any of these questions?
+3. Add questions about specific aspects of the practice?
